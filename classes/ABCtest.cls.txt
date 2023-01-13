@@ -1,0 +1,7 @@
+public class ABCtest{
+	
+	string str1 = "";
+	string str2 = "";
+	string str3 = "";
+
+}
